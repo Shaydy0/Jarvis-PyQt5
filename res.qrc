@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="Jarvis">
+    <file>Night/Bar.png</file>
+    <file>Night/Sp.png</file>
+    <file>Night/Close.png</file>
+    <file>Night/History-h.png</file>
+    <file>Night/History-hh.png</file>
+    <file>Night/History-b.png</file>
+    <file>Night/left-panel.png</file>
+    <file>Night/Jarvis.png</file>
+    <file>Night/Time.png</file>
+    <file>Night/Weather.png</file>
+    <file>Night/History.png</file>
+    <file>Night/Main.png</file>
+    <file>Night/Menu.png</file>
+  </qresource>
+</RCC>
